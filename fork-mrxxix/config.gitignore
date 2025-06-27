@@ -1,0 +1,4 @@
+# This gitignore is for repositories located in the ~/.config directory
+
+# ./go
+/go/telemetry/local/
